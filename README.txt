@@ -1,4 +1,5 @@
-This example shows a simple jersey REST service which can be packaged as a fat jar, via the Maven Shade plugin.
+Simple Jersey REST JAX-RS service packaged as a fat JAR, via the Maven Shade plugin.
+It runs with an embedded HTTP server.
 
 Reference: https://jersey.java.net/documentation/latest/getting-started.html
 
